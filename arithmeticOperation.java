@@ -17,5 +17,5 @@ public class arithmeticOperation {
             System.out.println("Remainder: " + remainder);
         }
     }
-
+  
 
